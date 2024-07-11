@@ -41,7 +41,7 @@ const getPokemon = async () => {
       (obj) => `<span class="type ${obj.type.name}">${obj.type.name}</span>`,
     )
     .join("");
-  } catch (err) {
+    } catch (err) {
     resetDisplay();
     alert("Pokémon not found");
     console.log(`Pokémon not found: ${err}`);
