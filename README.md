@@ -57,7 +57,7 @@ const getPokemon = async () => {
 
 ## Demo 📸
 
-
+![cash register](https://github.com/Hasinarahman/Pokemon-Search-App/assets/168626170/a184aa1d-ea7f-45d5-8b21-4e76bd555bc1)
 
 ## Technologies Used 🛠️
 
