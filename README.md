@@ -1,4 +1,4 @@
-# Cash Register 🚀
+# Pokemon-Search-App🚀
 
 ## Project Description 📝
 
