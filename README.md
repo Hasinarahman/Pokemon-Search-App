@@ -59,6 +59,10 @@ const getPokemon = async () => {
 
 ![pokemen](https://github.com/user-attachments/assets/025af407-c79b-424f-adfe-901d07af833b)
 
+
+## Deploy link
+(https://hasinarahman.github.io/Pokemon-Search-App/)
+
 ## Technologies Used 🛠️
 
 - HTML
